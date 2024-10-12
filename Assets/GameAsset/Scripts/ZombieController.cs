@@ -101,10 +101,6 @@ public class ZombieController : MonoBehaviour
 
             else
             {
-                //IsPlayerDetected = false;
-                //agent.speed = 0;
-                //animator.SetFloat("Speed", 0);
-
                 if (RandomRate < MovingRate)
                 {
                     agent.speed = walkSpeed;
@@ -151,11 +147,6 @@ public class ZombieController : MonoBehaviour
             }
             
         }
-
-
-
-
-
     }
 
 
@@ -163,8 +154,6 @@ public class ZombieController : MonoBehaviour
     public void SetRandomRate()
     {
         RandomRate = Random.Range(0, 100);
-
-
     }
 
 
@@ -184,7 +173,7 @@ public class ZombieController : MonoBehaviour
     Vector3 GetRandomPosition()
     {
         Vector3 result = Random.insideUnitSphere * Radius;
-        result += transform.position;
+        result += GameManager.Instance.playerTF.position;
 
         if(IsOnNavMesh(result))
         {
