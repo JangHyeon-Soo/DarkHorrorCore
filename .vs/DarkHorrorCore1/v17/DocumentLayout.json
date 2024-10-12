@@ -1,62 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UnityProject\\DarkHorrorCore1\\",
+  "WorkspaceRootPath": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|d:\\unityproject\\darkhorrorcore1\\assets\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|d:\\unityproject\\darkhorrorcore1 (2)\\darkhorrorcore1\\assets\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\renderingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\renderingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\renderingmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\interactionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\interactionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\player\\interactionscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\flashlight\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\flashlight\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\flashlight\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\item\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\item\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\item\\itemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\inventorywidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\player\\inventorywidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\player\\inventorywidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\scripts\\bgmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\scripts\\bgmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\scripts\\bgmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1\\assets\\gameasset\\prefab\\note\\widget\\noteprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\assets\\gameasset\\prefab\\note\\widget\\noteprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD68C29-9955-5886-D21F-FEEED0B09BD3}|Assembly-CSharp.csproj|solutionrelative:assets\\gameasset\\prefab\\note\\widget\\noteprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\DarkHorrorCore1\\Assets\\NoteUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NoteUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityProject\\DarkHorrorCore1\\Assets\\NoteUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,15 +65,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ItemScript.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\Item\\ItemScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +87,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RenderingManagement.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\RenderingManagement.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\RenderingManagement.cs",
               "RelativeDocumentMoniker": "Assets\\RenderingManagement.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\RenderingManagement.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\RenderingManagement.cs",
               "RelativeToolTip": "Assets\\RenderingManagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,11 +99,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MapGenerator.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\MapGenerator.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\MapGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\MapGenerator.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\MapGenerator.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\MapGenerator.cs",
               "RelativeToolTip": "Assets\\MapGenerator.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwEUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:27:21.264Z",
               "EditorCaption": ""
@@ -109,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FlashLightController.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\FlashLight\\FlashLightController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAiwF4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ZombieController.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\ZombieController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\ZombieController.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\ZombieController.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\ZombieController.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\ZombieController.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\ZombieController.cs",
               "ViewState": "AgIAAMoAAAAAAAAAAAArwOEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAL8AAAAAAAAAAAAlwM4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "NotePrefab.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Prefab\\Note\\Widget\\NotePrefab.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +172,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "InteractionScript.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\Player\\InteractionScript.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAhwPUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +184,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CameraShake.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\CameraShake.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\CameraShake.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\CameraShake.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\CameraShake.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\CameraShake.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\CameraShake.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAIwEoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +196,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "PlayerInventory.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\Inventory\\PlayerInventory.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAIwDQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +208,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "InventoryWidget.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\Player\\InventoryWidget.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAwCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,9 +221,9 @@
               "DocumentIndex": 13,
               "Title": "NoteUIManager.cs",
               "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\NoteUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\NoteUIManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\DarkHorrorCore1\\Assets\\NoteUIManager.cs",
               "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\NoteUIManager.cs",
-              "RelativeToolTip": "Assets\\NoteUIManager.cs",
+              "RelativeToolTip": "..\\..\\DarkHorrorCore1\\Assets\\NoteUIManager.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T04:36:05.831Z"
@@ -229,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BGMManager.cs",
-              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\BGMManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\BGMManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameAsset\\Scripts\\BGMManager.cs",
-              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\BGMManager.cs",
+              "ToolTip": "D:\\UnityProject\\DarkHorrorCore1 (2)\\DarkHorrorCore1\\Assets\\GameAsset\\Scripts\\BGMManager.cs",
               "RelativeToolTip": "Assets\\GameAsset\\Scripts\\BGMManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
