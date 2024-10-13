@@ -34,6 +34,8 @@ public class PlayerMovement : MonoBehaviour
     public bool isWalk;
     public bool isRun;
 
+    Quaternion curRot1;
+    Quaternion curRot2;
     // Start is called before the first frame update
     void Start()
     {
@@ -94,12 +96,13 @@ public class PlayerMovement : MonoBehaviour
                 shake.bobFrequency = 1.5f;
             }
 
-           
-
 
             if (GameManager.Instance.playerState == GameManager.StateOfPlayer.Default)
             {
-                Vector3 movement = Input.GetAxis("Horizontal") * playerTF.right + Input.GetAxis("Vertical") * playerTF.forward;
+                float x = Input.GetAxis("Mouse X");
+                float y = Input.GetAxis("Mouse Y") * mouseSensitivity;
+
+                Vector3 movement = Input.GetAxis("Horizontal") * playerCamHolder.right + Input.GetAxis("Vertical") * playerCamHolder.forward;
 
                 if (isGround && velocity.y < 0)
                 {
@@ -112,12 +115,21 @@ public class PlayerMovement : MonoBehaviour
                 }
 
                 characterController.Move(movement);
-                yRot -= Input.GetAxis("Mouse Y") * mouseSensitivity;
+
+                yRot -= y;
                 yRot = Mathf.Clamp(yRot, -70, 70);
 
-                playerCamHolder.localRotation = Quaternion.Euler(yRot, 0, 0);
 
-                transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * mouseSensitivity, 0);
+                xRot += x;
+                curRot1 = Quaternion.Euler(0, xRot, 0);
+
+                //playerTF.rotation = Quaternion.Euler(0, xRot, 0);
+
+                curRot2 = playerCamHolder.transform.rotation;
+
+                transform.rotation = Quaternion.Slerp(transform.rotation, curRot1, Time.deltaTime * 3.5f);
+                playerCamHolder.localRotation = Quaternion.Slerp(playerCamHolder.localRotation, Quaternion.Euler(yRot, 0, 0), Time.deltaTime * 3.5f);
+
 
                 isGround = GroundCheck();
                 if (isGround && Input.GetKey(JumpKey))
